@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "EthenTeam",
+  "author": "TomGeek",
   "license": "ISC",
   "dependencies": {
     "@scoutsdk/server-sdk": "^0.6.1",
